@@ -4,5 +4,6 @@
 ## Material del curso
 
 # pdi_molecular
-Bitácoras para el curso "análisis molecular" de la UAM- Iztapalapa
+Bitácoras para el curso "Análisis molecular" de la UAM-Iztapalapa
 *Carrera de Hidrobiología*
+Dr. Miguel Ángel del Río Portilla
